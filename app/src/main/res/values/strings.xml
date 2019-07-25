@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ferramentas</string>
+
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="tipo">
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+</resources>
